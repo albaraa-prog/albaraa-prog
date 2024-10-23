@@ -1,4 +1,4 @@
-# 🐱‍👤 Al Baraa Al Harthi
+# 👤 Al Baraa Al Harthi
 
 ### 📞 Contact
 
