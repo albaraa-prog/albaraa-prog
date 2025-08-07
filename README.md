@@ -124,8 +124,6 @@ Efficient Python script for downloading videos from various platforms, supportin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albaraa-prog&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=albaraa-prog&theme=dark&hide_border=true)
-
 [![committers.top badge](https://user-badge.committers.top/oman/albaraa-prog.svg)](https://user-badge.committers.top/oman/albaraa-prog)
 
 ---
@@ -145,7 +143,7 @@ Efficient Python script for downloading videos from various platforms, supportin
 
 📍 **Based in Muscat, Oman**  
 🚀 **Open to:** Full-time opportunities, internships, and collaborative projects  
-🎯 **Interests:** Software Engineering, Mobile Development, AI/ML, and Fintech
+🎯 **Interests:** Software Engineering, Mobile Development, AI/ML
 
 ---
 
@@ -153,8 +151,6 @@ Efficient Python script for downloading videos from various platforms, supportin
 
 - Advancing skills in AI/ML and deep learning technologies
 - Developing innovative mobile and web applications
-- Contributing to open-source projects
-- Exploring fintech and blockchain technologies
 - Mentoring fellow students as GDGC Technical Lead
 
 ---
