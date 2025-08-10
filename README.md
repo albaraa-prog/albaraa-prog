@@ -120,7 +120,7 @@ Efficient Python script for downloading videos from various platforms, supportin
 
 ## 📊 GitHub Statistics
 
-![Al Baraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albaraa-prog&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Al Baraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=albaraa-prog&show_icons=true&theme=gruvbox)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albaraa-prog&layout=compact&theme=dark&hide_border=true)
 
