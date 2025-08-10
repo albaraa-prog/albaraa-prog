@@ -23,7 +23,7 @@ As a Computer Science (Software Technology) student at Middle East College, I've
 - Developed full-stack applications for archival systems
 - Gained experience in both frontend and backend technologies
 
-**Manager of Research and Development (Part-time)** | *Buslah* | 2024 - 2025 (1 Year)
+**Manager of Research and Development (Part-time)** | *Beulah Startup company participated in Injaz Oman* | 2024 - 2025 (1 Year)
 - Led research and development initiatives for sports facility booking platform
 - Managed cross-platform development projects using Flutter and AI/ML integration
 
