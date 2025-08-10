@@ -7,7 +7,7 @@
 - 🐙 [GitHub](https://github.com/albaraa-prog)
 - 📸 [Instagram](https://www.instagram.com/sp_nr/)
 
-**`Computer Science Student | Software Engineer | Rihal's Spark to Code Intern`**
+**`Computer Science Student | Software Engineer | AI/ML |Rihal's Spark to Code Intern`**
 
 As a Computer Science (Software Technology) student at Middle East College, I've developed expertise in full-stack development, mobile app development, and AI/ML technologies. Currently serving as Technical Lead at GDGC (Google Developer Student Club) and working as a Software Engineer Intern at Rihal. My passion lies in creating innovative solutions that bridge technology and real-world applications, with experience spanning from mobile apps to AI-powered tools.
 
