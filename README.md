@@ -20,7 +20,7 @@ As a Computer Science (Software Technology) student at Middle East College, I've
 - Working on cutting-edge software development projects
 
 **Full-Stack Developer Intern** | *Oman Archive* | 2025 (3 Months)
-- Developed full-stack applications for archival systems
+- Developed full-stack application
 - Gained experience in both frontend and backend technologies
 
 **Manager of Research and Development (Part-time)** | *Beulah Startup company participated in Injaz Oman* | 2024 - 2025 (1 Year)
