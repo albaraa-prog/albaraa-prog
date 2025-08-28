@@ -15,8 +15,8 @@ As a Computer Science (Software Technology) student at Middle East College, I've
 
 ## 💼 Professional Experience
 
-**Software Engineer Intern** | *Rihal* | 2025 - Present
-- Currently participating in Rihal's Spark to Code internship program
+**Software Engineer Intern** | *Rihal* | 2025 (2 Months)
+- participated in Rihal's Spark to Code internship program
 - Working on cutting-edge software development projects
 
 **Full-Stack Developer Intern** | *Oman Archive* | 2025 (3 Months)
