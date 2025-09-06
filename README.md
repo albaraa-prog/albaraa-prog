@@ -15,6 +15,12 @@ As a Computer Science (Software Technology) student at Middle East College, I've
 
 ## 💼 Professional Experience
 
+**Game Developer** | *AL NAHDA Training Institute ( London Academy)* | 2025 (Present)
+- Gaining hands-on training in Unity Engine, C#, and interactive design principles.
+-	Developing and prototyping 2D and 3D games, from concept to deployment.
+-	Working with certified trainers and industry mentors on real-world game projects.
+-	Enhancing skills in problem-solving, teamwork, and project management within an agile 
+  
 **Software Engineer Intern** | *Rihal* | 2025 (2 Months)
 - participated in Rihal's Spark to Code internship program
 - Working on cutting-edge software development projects
