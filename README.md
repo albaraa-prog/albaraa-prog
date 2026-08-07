@@ -91,8 +91,6 @@ I am a **Software Engineer** holding a **B.Sc. (Hons) in Computer Science (Softw
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Yii2-0073B4?style=flat-square&logo=yii&logoColor=white" alt="Yii2" />
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
     </td>
   </tr>
@@ -111,6 +109,7 @@ I am a **Software Engineer** holding a **B.Sc. (Hons) in Computer Science (Softw
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Hostinger-673AB7?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
@@ -122,17 +121,9 @@ I am a **Software Engineer** holding a **B.Sc. (Hons) in Computer Science (Softw
       <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" alt="Unity" />
       <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal" />
       <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Design & Creative</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/DaVinci_Resolve-1B1B1B?style=flat-square&logo=davinciresolve&logoColor=white" alt="DaVinci" />
-      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-      <img src="https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white" alt="Inkscape" />
-      <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white" alt="OBS" />
     </td>
   </tr>
 </table>
@@ -174,9 +165,8 @@ I am a **Software Engineer** holding a **B.Sc. (Hons) in Computer Science (Softw
       <p>Architected a scalable Udemy-style web application for course and subscription management, integrating the <strong>Thawani Payment Gateway</strong> for secure automated checkout.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?logo=php" />
-        <img src="https://img.shields.io/badge/Yii2-0073B4?logo=yii" />
         <img src="https://img.shields.io/badge/Thawani_Pay-38BDF8" />
-        <img src="https://img.shields.io/badge/Hostinger-673AB7" />
+        <img src="https://img.shields.io/badge/Hostinger-673AB7?logo=hostinger" />
       </p>
     </td>
     <td>
@@ -186,7 +176,7 @@ I am a **Software Engineer** holding a **B.Sc. (Hons) in Computer Science (Softw
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter" />
         <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart" />
-        <img src="https://img.shields.io/badge/Hostinger-673AB7" />
+        <img src="https://img.shields.io/badge/Hostinger-673AB7?logo=hostinger" />
       </p>
     </td>
   </tr>
@@ -235,11 +225,18 @@ I am a **Software Engineer** holding a **B.Sc. (Hons) in Computer Science (Softw
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albaraa-prog&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Al Baraa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albaraa-prog&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+  <a href="https://github.com/albaraa-prog">
+    <img src="https://streak-stats.demolab.com?user=albaraa-prog&theme=tokyonight&hide_border=true&border_radius=8" alt="Al Baraa's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/albaraa-prog">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=albaraa-prog&theme=tokyo-night&hide_border=true&area=true" alt="Al Baraa's GitHub Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -251,8 +248,4 @@ I am a **Software Engineer** holding a **B.Sc. (Hons) in Computer Science (Softw
   <a href="https://www.linkedin.com/in/al-baraa-al-harthi-740340212"><img src="https://img.shields.io/badge/LinkedIn-Al%20Baraa%20Al%20Harthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:albraa9021@gmail.com"><img src="https://img.shields.io/badge/Email-albraa9021%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="tel:+96891262544"><img src="https://img.shields.io/badge/Phone-%2B968%2091262544-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <em>"Jack of all trades, master of one — Building scalable software solutions to impact communities."</em>
 </p>
