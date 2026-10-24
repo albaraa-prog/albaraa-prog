@@ -128,6 +128,7 @@ I still can't stay in one lane. I jump between **AI, mobile apps, games, 3D and 
 
 | When | Role | Where |
 | --- | --- | --- |
+| Oct 2026 | **Information Technology Intern**, on-site in Muscat | Royal Navy of Oman |
 | 2026 – now | **Software Development Manager**, also head of Programming & Cybersecurity | Digital Dimension |
 | 2025 – 2026 | **Full-stack Developer Team Lead** (started there as an intern) | Omani Archive |
 | 2025 – 2026 | **Game Developer**, Unity and C# | AL NAHDA Training Institute |
